@@ -2,7 +2,7 @@
 COMPANY: CODTECH IT SOLUTIONS
 NAME: VIKRANTSINGH MAHESHSINGH DIKKHAT
 INTERN ID: CT12WRZZ
-DOMAIN: FROM END DEVELOPMENT
+DOMAIN: FULL STACK WEB DEVELOPMENT
 DURATION: 12 WEEKS 
 MENTOR: NEELA SANTOSH
 *Realtime document editor for editing document sizee theme formatting document and manipulating created using html css json mongodb etc*
